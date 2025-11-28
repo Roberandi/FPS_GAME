@@ -1,0 +1,36 @@
+# Archivos y carpetas ignorados comunes de Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+/Assets/Editor/AssetStoreTools/
+
+# Paquetes de Unity
+/Packages/
+/Assets/StreamingAssets/
+
+# Metadatos del proyecto
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.gz
+*.log
+*.meta
+
+# Archivos de depuración y temporales
+*.pdb
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.bak
+*.orig
+
+# Archivos de macOS
+.DS_Store

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    GraphicsSettingsInspector_UserSettings:
+      value: 18134705175a055722080a3115371d4a0d55006876786860616b0471b8b07a68ffab74f9ee2a3a30300cea1a11320d0beb1a0c25f7060f494b4cc80018eb09361fc211cb1f862d19c51d19dcc413d6ade0d8ddfcddf9f4d9d29195fcfde6ebeae6f0a9c9afa6f8c5b89ff7a1aacececac4eba4d7c9d28bda
+      flags: 0
+    RecentlyUsedSceneGuid-0:
+      value: 5402075f06055a03580a0d7546735e4412154d72797820602c7a4830b3b73060
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5652575200560d590857097244200a444e164b2f78297e317b7f4b36b0e56368
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b555150010c5d5e0f56092112210744464f197d7d297e337a784a63e0e3633d
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 06550d0755045f0f5a5d587242260e44404e4e7c287f76642c7d1967e7b76669
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5a0203040751580b545f0e2316770c44134f1e7c757073627a2d446bb4e66d3c
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 56575650530351025c5e5b7245275c444e4f1d7c297870687a714835b2b36660
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 01070d035106505e5a0b5f7543725e44404e4d727d2b76652b704e37b3e6356d
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 06090c055103085a5b5e597a45255944424e1a7c7a2976627b704867b4e3633b
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 5b08055306030b020c0c0f2014205a4415164e7f282c7161282c1c62b7b6666b
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 0208555f5c50080f5b5f5d2312750644404f4b7d2f71726829784562b3e33168
+      flags: 0
+    lightmappingBakingProfile:
+      value: 51
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1

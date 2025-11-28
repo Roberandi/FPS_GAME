@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|c:\\users\\rober\\unity proyects\\juego_fps\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\assets\\scripts\\ammopickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammopickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\assets\\scripts\\weaponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\assets\\scripts\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\assets\\scripts\\playerhealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE917A8C-F09D-8838-6EB6-2EE32F19E3EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:11:30.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmmoPickup.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\AmmoPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoPickup.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\AmmoPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:57:29.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelExit.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\LevelExit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelExit.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\LevelExit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:43:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:25:44.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponsController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\WeaponsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponsController.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\WeaponsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponsController.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAwwO0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:19:33.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwv+MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:07:29.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealthController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\PlayerHealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealthController.cs",
+              "ToolTip": "C:\\Users\\rober\\Unity Proyects\\JUEGO_FPS\\Assets\\Scripts\\PlayerHealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:54:47.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
